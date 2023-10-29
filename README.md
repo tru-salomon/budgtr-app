@@ -2,6 +2,11 @@
 
 Budgtr is a full-stack web application that allows users to efficiently manage their financial transactions. This application is built using JavaScript, React, RESTful routes, and a server, providing users with the ability to perform CRUD (Create, Read, Update, Delete) operations on a single resource. The application's user-friendly interface and thoughtful design make it easy to log and organize financial data.
 
+# Links
+[Project Board](https://pursuit889401.monday.com/users/sign_up?invitationId=31737109418931196000)
+[Backend Repository](https://github.com/tru-salomon/budgtr-app-backend)
+
+
 ## Features
 
 ### 1. User-Friendly Navigation
